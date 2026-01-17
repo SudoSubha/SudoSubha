@@ -1,4 +1,4 @@
-# I'm Soumya
+#                                                                                           Hi, I'm Soumya
 # 💫 About Me:
 🔭 I’m currently working on acquiring more skills<br>👯 I’m looking to collaborate on secure web applications and open-source security tools<br>🤝 I’m looking for help with advanced Python scripting for automation<br>🌱 I’m currently learning Ethical Hacking, MongoDB, and Network Defense<br>💬 Ask me about React Js, C++, and why I prefer Linux<br>⚡ Fun fact: I can't start my coding session without a cup of 100% Arabica coffee ☕
 
