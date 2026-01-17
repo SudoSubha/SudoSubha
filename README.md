@@ -1,8 +1,12 @@
-#                                                                                           Hi, I'm Soumya
-# 💫 About Me:
+<div align="center">
+  <h1>Hi, I'm Soumya</h1>
+  <h2>💫 About Me:</h2>
+</div>
+
 🔭 I’m currently working on acquiring more skills<br>👯 I’m looking to collaborate on secure web applications and open-source security tools<br>🤝 I’m looking for help with advanced Python scripting for automation<br>🌱 I’m currently learning Ethical Hacking, MongoDB, and Network Defense<br>💬 Ask me about React Js, C++, and why I prefer Linux<br>⚡ Fun fact: I can't start my coding session without a cup of 100% Arabica coffee ☕
 
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumyadip.das.71697092) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/may.be_soumya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadip-das-cyber-a8b333254) 
 
@@ -19,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SudoSubha&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
